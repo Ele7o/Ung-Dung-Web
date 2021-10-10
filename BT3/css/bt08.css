@@ -1,0 +1,30 @@
+div.headlink{
+    background-color: #2DAACD;
+    padding: 20px;
+}
+h1.headlink{
+    color: #1A801C;
+}
+span{
+    margin-left: 20px;
+    color:white;
+}
+a.link{
+    text-decoration: none;
+    color:white;
+}
+a:hover{
+    color:red;
+}
+span.title{
+    text-shadow: rgb(53, 42, 42) 5px 5px 2px;
+    font-size: 30px;
+    color:yellow;
+}
+span.login{
+    float: right;
+
+}
+mark{
+    color:green;
+}

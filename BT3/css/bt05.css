@@ -1,0 +1,20 @@
+table{
+    border: 1px solid black;
+    text-align: left;
+}
+
+tr.title{
+    background-color : #999999;
+    color:white;
+    text-align: center;
+}
+tr.l1{
+    background-color : #EFEFEF;
+}
+tr.l2{
+    background-color : #CCCCCC;
+}
+caption{
+    font-weight: bold;
+    font-size: 25px;
+}

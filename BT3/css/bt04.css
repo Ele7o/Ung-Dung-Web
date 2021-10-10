@@ -1,0 +1,31 @@
+mark.m1{
+    border: 2px solid black;
+    padding: 5px;
+    font-weight: bold;
+    background-color:gainsboro;
+}
+mark.m2{
+    border-style: dotted;
+    border-color: red;
+    background-color:gainsboro;
+}
+div{
+    border: 5px solid black;
+    padding: 5px;
+    margin-top: 20px;
+   
+}
+div.title{
+    background-color:gainsboro;
+}
+div.m2{
+    border-style: dashed;
+    border-color:blue;
+}
+img{
+    height: 450px;
+    width: 450px;
+    border: 5px solid black;
+    margin-top: 20px;
+    padding: 2px;
+}

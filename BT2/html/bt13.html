@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Ứng dụng web</title>
+        <link rel="stylesheet" href="../css/bt13.css">
+    </head>
+    <body>
+        <form>
+            <table>
+                <tr>
+                    <td>Họ tên</td>
+                    <td>
+                        <input type="text"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Giới tính</td>
+                    <td>
+                        <input type="radio" name="sex" value="Male"/>
+                        <label for="sex">Nam</label>
+                        <input type="radio" name="sex" value="Female"/>
+                        <label for="sex">Nữ</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Điều bạn quan tâm</td>
+                    <td>
+                        <input type="checkbox" name="care" value="Kte"/>
+                        <label for="care">Kinh tế</label>
+                        <input type="checkbox" name="care" value="Xhoi"/>
+                        <label for="care">Xã hội</label>
+                        <input type="checkbox" name="care" value="Gtri"/>
+                        <label for="care">Giải trí</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Địa chỉ</td>
+                    <td>
+                        <textarea name="addr" style=" max-width: 100%;"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Học vấn:</td>
+                    <td>
+                        <select name="Hvan">
+                            <option value="1">Đại học</option>
+                            <option value="2">Cao đẳng</option>
+                            <option value="3">Trung cấp</option>
+                            <option value="4">THPT</option>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <input type="submit" value="Gửit thông tin"/>
+                        <input type="reset" value="Nhập lại"/>
+                    </td>   
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>
