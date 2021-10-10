@@ -1,0 +1,6 @@
+ol.lama{
+    list-style-type: upper-roman;
+}
+ol.alpha{
+    list-style-type: lower-alpha;
+}

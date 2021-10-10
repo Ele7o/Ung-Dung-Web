@@ -1,0 +1,22 @@
+ol.lama{
+    list-style-type: upper-roman;
+    
+}
+ol.alpha{
+    list-style-type: lower-alpha;
+}
+ul.vuong{
+    list-style-type: square;
+}
+ul.tron{
+    list-style-type: circle;
+}
+h1{
+    text-align: center;
+}
+div.trai{
+    text-align: left;
+}
+body{
+    background-color: #FFCC99;
+}

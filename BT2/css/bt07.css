@@ -1,0 +1,27 @@
+table{
+    
+    border:1px solid #000;
+    margin:0 auto;
+    width:100%;
+    text-align:center;
+}
+td{
+    border:1px solid #000;
+    padding:5px;
+}
+tr.odd{
+    background-color:#ccc;
+    font-weight:bold;
+}
+td.odd{
+    text-align: left;
+}
+td.success{
+    background-color: yellow;
+    
+}
+td.failure{
+    background-color: red;
+    color:#fff;
+}
+
