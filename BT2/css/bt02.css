@@ -1,0 +1,20 @@
+#txtcenter{
+    text-align: center;
+}
+#txtright{
+    text-align: right;
+}
+#txtleft{
+    text-align: left;
+}
+#txtbold{
+    font-weight: bold;
+}
+#txtitalic{
+    font-style: italic;
+}
+#txtbolditalic{
+    font-weight: bold;
+    font-style: italic;
+}
+}
