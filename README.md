@@ -3,3 +3,7 @@
 
 Website: https://webapp.er1k.dev or https://www.webapp.er1k.dev
 Hosting by Nelify
+
+Website: https://webapp2.er1k.dev or https://www.webapp2.er1k.dev
+Hosting by Cloudflare
+
