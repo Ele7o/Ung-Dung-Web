@@ -1,0 +1,6 @@
+#box{
+    border: 1px solid blue;
+    width:max-content;
+    margin: 20px;
+    padding: 5px;
+}
